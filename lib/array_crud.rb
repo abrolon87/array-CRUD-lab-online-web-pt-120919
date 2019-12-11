@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  new_array = [this, that, these, those]
+  new_array = ["this", "that", "these", "those"]
 end
 
 def add_element_to_end_of_array(array, element)
